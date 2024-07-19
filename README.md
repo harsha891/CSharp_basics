@@ -1,4 +1,4 @@
-# Multiplex Cinema and Exam Scores Applications
+# Multiplex Cinema, Exam Scores, Rock-Paper-Scissors game and vowel counting Applications
 
 ## Project Structure
 
@@ -19,7 +19,7 @@
 
 ## Prerequisites
 
-- .NET Framework 4.7.2
+.NET Framework 4.7.2
 
 ## Running the Applications
 
