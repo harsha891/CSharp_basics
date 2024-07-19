@@ -1,0 +1,7 @@
+C:\Harsha\Lambton_books\term-2\C#\A1\C0931034_Assignment01\Q1\bin\Debug\Q1.exe.config
+C:\Harsha\Lambton_books\term-2\C#\A1\C0931034_Assignment01\Q1\bin\Debug\Q1.exe
+C:\Harsha\Lambton_books\term-2\C#\A1\C0931034_Assignment01\Q1\bin\Debug\Q1.pdb
+C:\Harsha\Lambton_books\term-2\C#\A1\C0931034_Assignment01\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+C:\Harsha\Lambton_books\term-2\C#\A1\C0931034_Assignment01\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\Harsha\Lambton_books\term-2\C#\A1\C0931034_Assignment01\Q1\obj\Debug\Q1.exe
+C:\Harsha\Lambton_books\term-2\C#\A1\C0931034_Assignment01\Q1\obj\Debug\Q1.pdb
